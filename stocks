@@ -1,0 +1,605 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<!-- Mirrored from aspen-fm.com/stocks by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 07 Nov 2021 12:36:53 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Aspen Financial Management | Stocks</title>
+    <!--Favicon add-->
+    <link rel="shortcut icon" type="image/png" href="assets/images/logo/icon.png">
+    <!--bootstrap Css-->
+    <link href="assets/front/css/bootstrap.min.css" rel="stylesheet">
+    <!--font-awesome Css-->
+    <link href="assets/front/css/font-awesome.min.css" rel="stylesheet">
+    <!-- Lightcase  Css-->
+    <link href="assets/front/css/lightcase.css" rel="stylesheet">
+    <!--WOW Css-->
+     <link href="assets/front/css/animate.min.css" rel="stylesheet">
+    <!--Slick Slider Css-->
+    <link href="assets/front/css/slick.css" rel="stylesheet">
+    <!--Slick Nav Css-->
+    <link href="assets/front/css/slicknav.min.css" rel="stylesheet">
+    <!--Swiper  Css-->
+    <link href="assets/front/css/swiper.min.css" rel="stylesheet">
+    <!--Style Css-->
+    <link href="assets/front/css/style.css" rel="stylesheet">
+    <!-- Theam Color Css-->
+    <link href="assets/css/color4831.css?color=03423a" rel="stylesheet">
+    <!--Responsive Css-->
+    <link href="assets/front/css/responsive.css" rel="stylesheet">
+        <script src="assets/js/jquery.min.js"></script>
+
+    <link rel="stylesheet" href="assets/front/2/css/style.css">
+    
+    <script src="assets/front/2/js/modernizr.js"></script>
+
+    <link rel="stylesheet" type="text/css" href="../cdnjs.cloudflare.com/ajax/libs/sweetalert/1.1.3/sweetalert.min.css">
+
+    <script src="../cdnjs.cloudflare.com/ajax/libs/sweetalert/1.1.3/sweetalert.min.js"></script>
+    <script type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="0c32fba4-05fe-4823-8e4c-d8844659bc7b";(function(){d=document;s=d.createElement("script");s.src="../client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>
+    
+    <!--googletranlate-->
+    
+    
+
+    
+    <style>
+        @media  only screen and (max-width: 769px){
+.slicknav_nav {
+    background: #03423a;
+}
+}
+
+.support-bar-top {
+    background: #03423a;
+   
+}
+.footer-support-list {
+    text-align: center;
+    border-bottom: 8px solid #2c3e50;
+    background-color: #03423a;
+    padding: 10px 0px;
+}
+
+.footer-support-list {
+    border-bottom: 8px solid #ffffff;
+}
+.footer-area {
+    background: #03423a;
+}
+
+.admin-section {
+    background-color: #03423a;
+    padding: 50px 0px;
+}
+
+.support-bar-top a:hover {
+    color: #040404;
+}
+
+.main-menu ul li .mega-menu1 {
+    background-color: #03423a;
+}
+/* GOOGLE TRANSLATOR */
+
+		  .goog-te-combo, .goog-te-banner *, .goog-te-ftab *, .goog-te-menu *, .goog-te-menu2 *, .goog-te-balloon *{
+		  text-decoration: none !important;
+		  font-size: 14pt !important;
+		  color: #424256;
+		  display: none !important;
+		}
+		.goog-te-banner-frame{
+		  display: none !important;
+		}
+		.header nav.top-navigation>a.langUrlTrans{
+			border-left: 1px solid #007a40;
+			margin-top: -2px;
+			padding: 2px 0 1px 20px;
+		}
+		.goog-te-gadget-simple {
+			display: -webkit-box !important;
+			margin: -40px 0px 0px 0px;
+			font-family: 'Montserrat', sans-serif !important;
+			font-size: 14pt !important; 
+			background-color: transparent !important;
+			color: #fff !important;
+			-webkit-box-shadow: none !important;
+			box-shadow: none !important;
+			padding-top: 0px !important;
+			padding-bottom: 0px !important;
+			border-bottom: 0px !important;
+			border-top: 0px !important;
+			border-left: 0px !important;
+			border-right: 0px !important;
+			position: relative;
+            top: 6px;
+		}
+		@media    only screen and (max-width: 769px) {
+		    .goog-te-gadget-simple{ 
+		        top: 5px;
+		    }
+		}
+		@media    only screen and (max-width: 1440px) {
+		    .goog-te-gadget-simple{ 
+		        top: 5px;
+		    }
+		}
+		@media    only screen and (max-width: 425px) {
+		    .goog-te-gadget-simple{ 
+		        top: 0px;
+		        margin: -36px 0px 0px 0px;
+		    }
+		}
+		i.fa.fa-language {
+            position: relative;
+            top: -14px;
+        }
+		.goog-te-gadget img{
+		   background-image: none !important;
+		   background-position: 0px 0px !important;
+		   background-size: 0px !important;
+		   background-repeat: no-repeat !important;
+		}
+		.goog-te-gadget-icon{
+		   display: none !important;
+		}
+		.goog-te-gadget-simple .goog-te-menu-value{
+		   color: #424256 !important;
+		   font-size: 14px !important;
+		   font-weight: 400;
+		   text-transform: uppercase;
+		   display: none !important;
+		}
+		.goog-te-gadget-simple:after{
+		   display: -webkit-box !important;
+		   content: 'Languages';
+		   color: #fff !important;
+		   font-size: 14px !important;
+		   font-weight: 400;
+		   text-transform: Capitalize;
+		}
+		.goog-te-combo, .goog-te-banner *, .goog-te-ftab *, .goog-te-menu *, .goog-te-menu2 *, .goog-te-balloon *{
+		  font-family: 'Montserrat', sans-serif !important ;
+		  font-size: 14pt !important;
+		  text-decoration: none !important;
+		}
+		.goog-te-menu2{
+		  font-family: 'Montserrat', sans-serif !important ;
+		  font-size: 14pt !important;
+		  border: 1px solid #007a40fff !important;
+		  background-color: #b70000 !important;
+		  color: #fff !important;
+		}
+		.goog-te-menu-frame{
+		  -webkit-box-shadow: none !important;
+		  box-shadow: -1px 2px 20px 0px #4444447a !important;
+		}
+		.goog-te-menu2-item div, .goog-te-menu2-item:link div, .goog-te-menu2-item:visited div, .goog-te-menu2-item:active div {
+		  font-family: 'Montserrat', sans-serif !important ;
+		  border: 1px solid #007a40fff !important;
+		  background-color: #b70000 !important;
+		  color: #fff !important;
+		}
+		
+    </style>
+</head>
+
+<body  data-spy="scroll">
+<!-- Start Pre-Loader-->
+
+<div id="preloader">
+    <div data-loader="circle-side"></div>
+
+</div>
+<!-- End Preload -->
+<div class="animation-element">
+<!-- End Pre-Loader -->
+<!--support bar  top start-->
+<div class="support-bar-top wow slideInLeft" data-wow-duration="2s" id="raindrops-green">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                <div class="contact-info">
+                    <a href="mailto:info@aspen-fm.com"> <i class="fa fa-envelope email" aria-hidden="true"></i> info@aspen-fm.com</a>
+                    <a href="#"> <i class="fa fa-phone" aria-hidden="true"></i> +1 (305) 918‑1211 </a>
+                    
+                    <a href="#"> <i class="fa fa-language" aria-hidden="true" style="margin-left: 2px;"></i>
+                    
+                    <div id="google_translate_element"></div>
+<script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+}
+</script>
+
+<script type="text/javascript" src="../translate.google.com/translate_a/elementa0d8.html?cb=googleTranslateElementInit"></script>
+    
+                    
+                    
+                    
+                    
+                    </a>
+                </div>
+            </div>
+            <div class="col-md-6 text-right bounceIn">
+                <div class="contact-admin">
+                    <a href="login.html"><i class="fa fa-user"></i> LOGIN </a>
+                    <a href="joinus.html"><i class="fa fa-user-plus"></i> JOIN-US</a>
+                    <!--<a href="https://aspen-fm.com/register"><i class="fa fa-user-plus"></i> REGISTER</a>-->
+                    <div class="support-bar-social-links">
+                                                    <a href="https://www.facebook.com/AspenFinancialManagement/"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                                                    <a href="https://www.linkedin.com/company/lifeinsurance1"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+                                                    <a href="https://instagram.com/aspenfinancialmanagement?utm_medium=copy_link"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+                                                    <a href="https://wa.me/message/5CEGH6JWYWOQO1"><i class="fa fa-whatsapp" aria-hidden="true"></i></a>
+                                            </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+<!--support bar  top end-->
+<!--main menu section start-->
+<nav class="main-menu wow slideInRight" data-wow-duration="2s">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-3">
+                <div class="logo">
+                    <a href="index.html"><img src="assets/images/logo/logo.png" style="max-height:60px;"></a>
+                </div>
+            </div>
+            <div class="col-md-9 text-right">
+                <ul id="header-menu" class="header-navigation">
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="whatweinvestin.html">What we invest in</a></li>
+                    
+                    <li><a href="news.html">NEWS</a></li>
+                    
+                    <!---->
+                    <!--    <li><a href="https://aspen-fm.com/menu/1/what-we-invest-in">what we invest in</a></li>-->
+                    <!---->
+                    <li><a href="faqs.html">Faq</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                    <!--<li><a href="https://aspen-fm.com/about">About Us</a>-->
+                    <li><a class="page-scroll" href="#">About Us <i class="fa fa-angle-down"></i></a>
+                            <ul class="mega-menu mega-menu1 mega-menu2 menu-postion-2">
+                                <li class="mega-list mega-list1">
+                                    <a class="page-scroll" href="about.html">History</a>
+                                    </li>
+                                    <li class="mega-list mega-list1">
+                                    <a class="page-scroll" href="howwearedifferent.html">How We Are Different</a>
+                                    </li>
+                                  <li class="mega-list mega-list1">
+                                    <a class="page-scroll" href="fiduciary.html">Fiduciary</a>
+                                    </li>
+                                    <li class="mega-list mega-list1">
+                                    <a class="page-scroll" href="clienteducation.html">Client Education and services</a>
+                                    </li>   
+                                    <li class="mega-list mega-list1">
+                                    <a class="page-scroll" href="ourteam.html">Our Team</a>
+                                    </li>  
+                                    <li class="mega-list mega-list1">
+                                    <a class="page-scroll" href="assetsundermanagement.html">Assets Under Management</a>
+                                    </li>
+                                    
+                                    <li class="mega-list mega-list1">
+                                    <a class="page-scroll" href="privacypolicy.html">Privacy Policy</a>
+                                    </li>
+                            </ul>
+                        </li>
+                    
+                    
+                    </li>
+                                            <li><a class="page-scroll" href="#">Account <i class="fa fa-angle-down"></i></a>
+                            <ul class="mega-menu mega-menu1 mega-menu2 menu-postion-4">
+                                <li class="mega-list mega-list1">
+                                    <a class="page-scroll" href="login.html">Login</a>
+                                    <a class="page-scroll" href="joinus.html">Join Us</a></li>
+                            </ul>
+                        </li>
+                                    </ul>
+            </div>
+        </div>
+    </div>
+</nav>
+<!--main menu section end-->
+
+<div class="main-content">
+    
+    <!--header section start-->
+    <section class="breadcrumb-section" style="background-image: url('assets/images/stck.jpg')">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <!-- breadcrumb Section Start -->
+            <div class="breadcrumb-content">
+               <h5>Stocks</h5>
+            </div>
+            <!-- Breadcrumb section End -->
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!--about us page content start-->
+    <section class="section-padding about-us-page">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <h1>What is a stock?</h1>
+                    <p>A stock is a type of security that entitles the holder, a fraction of ownership in a company. Through the ownership of this stock, the holder may be granted a portion of a company’s earnings, distributed as dividends. Broadly speaking, there are two main types of stocks, common and preferred. Common stockholders have the right to receive dividends and vote in shareholder meetings, while preferred shareholders have limited or no voting rights. Preferred stockholders typically receive higher dividend payouts, and in the event of a liquidation, a greater claim on assets than common stockholders.
+</p>
+
+
+
+
+Stocks are how ordinary people invest in some of the most successful companies in the world. For companies, stocks are a way to raise money to fund growth, products and other initiatives.
+
+<h1>What are stocks and why should you own them?</h1>
+When you buy the stock of a company, you’re effectively buying an ownership share in that company.
+
+Does that mean you get to sit next to Tim Cook at Apple’s next shareholder meeting? No. But in most cases, it does mean you get a right to vote at those meetings, if you choose to exercise it.
+
+But the primary reason why investors own stock is to earn a return on their investment. The return, generally comes in two possible ways;
+
+The stock’s price appreciates, which means it goes up. You can then sell the stock for a profit if you’d like.
+
+The stock pays dividends. Not all stocks pay dividends, but many do. Dividends are payments made to shareholders out of the company’s revenue, and they’re typically paid quarterly.
+
+Over the long term, the average annual stock market return is 10%; that average falls to between 7% and 8% after adjusting for inflation. That means $1,000 invested in stocks 30 years ago would be worth over $8,000 today.
+
+It’s important to note that that historical return is an average across all stocks in the S&P 500, a collection of around 500 of the biggest companies in the U.S. It doesn’t mean that every stock posted that kind of return, some posted much less or even failed completely. Others posted much higher returns.
+
+That’s why it’s wise to buy stock not in just one company, but to build a well-rounded portfolio that includes stocks in many companies across various industries and geographies.
+
+<h1>
+What does it mean when you own stocks?</h1>
+Most investors own what’s called common stock, which is what is described above. Common stock comes with voting rights, and may pay investors dividends. There are other kinds of stocks, including preferred stocks, which work a bit differently.
+
+Again, owning a stock doesn’t mean you carry a lot of weight within the company, or that you get to rub elbows with company bigwigs. It also doesn’t mean that you own a piece of the company’s assets, you aren’t entitled to a parking spot in the company lot or a desk at the company’s headquarters.
+
+What you own, essentially, is a share in the company’s profits and, it should be said, its losses. The goal, of course, is for the value of the company and the value of its stock to go up while you’re a shareholder.
+
+Generally stocks have a history of high returns, they also come with risk: It’s entirely possible that a stock in your portfolio will go down in value instead. Stock prices fluctuate for a variety of reasons, from overall market volatility to company-specific events, like a communications crisis or a product recall.
+
+Many long-term investors hold on to stocks for years, without frequent buying or selling, and while they see those stocks fluctuate over time, their overall portfolio goes up in value over the long term. These investors often own stocks through mutual funds or index funds, which pool many investments together. You can buy a large section of the stock market for example, a stake in all of the companies in the S&P 500 through a mutual fund or index fund.
+                </div>
+            </div>
+            
+ <!--service section start-->
+<section class="service-section">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="section-title text-center section-padding padding-bottom-0 wow slideInLeft" data-wow-duration="2s">
+                    <div class="section-header">
+                        <h2>Latest Market <span>Activity</span></h2>
+                        <p><img src="assets/images/logo/icon.png" alt="icon"></p>
+                    </div>
+                    
+                </div>
+            </div>
+        </div>
+        <div class="row wow slideInRight" data-wow-duration="2s">
+          <div class="section-wrapper wow bounceInLeft" data-wow-duration="2s" style="visibility: visible; animation-duration: 2s; animation-name: bounceInLeft;">
+                 <div class="deposit-title text-center">
+                        <h4>Follow Latest Stock Market Trends</h4>
+                    </div>
+                <div class="hosting-content table-responsive">
+                    <div class="tradingview-widget-container" style="width: 100%; height: 44px;">
+                    <iframe scrolling="no" allowtransparency="true" frameborder="0" src="https://s.tradingview.com/embed-widget/ticker-tape/?locale=en#%7B%22symbols%22%3A%5B%7B%22title%22%3A%22S%26P%20500%22%2C%22proName%22%3A%22OANDA%3ASPX500USD%22%7D%2C%7B%22title%22%3A%22Shanghai%20Composite%22%2C%22proName%22%3A%22INDEX%3AXLY0%22%7D%2C%7B%22title%22%3A%22EUR%2FUSD%22%2C%22proName%22%3A%22FX_IDC%3AEURUSD%22%7D%2C%7B%22title%22%3A%22BTC%2FUSD%22%2C%22proName%22%3A%22BITFINEX%3ABTCUSD%22%7D%2C%7B%22title%22%3A%22ETH%2FUSD%22%2C%22proName%22%3A%22BITFINEX%3AETHUSD%22%7D%2C%7B%22description%22%3A%22AUD%2FUSD%22%2C%22proName%22%3A%22OANDA%3AAUDUSD%22%7D%2C%7B%22description%22%3A%22CAD%2FUSD%22%2C%22proName%22%3A%22FX_IDC%3ACADUSD%22%7D%2C%7B%22description%22%3A%22BCH%2FUSD%22%2C%22proName%22%3A%22KRAKEN%3ABCHUSD%22%7D%5D%2C%22colorTheme%22%3A%22dark%22%2C%22isTransparent%22%3Atrue%2C%22displayMode%22%3A%22adaptive%22%2C%22width%22%3A%22100%25%22%2C%22height%22%3A44%2C%22utm_source%22%3A%22nunotrade.com%22%2C%22utm_medium%22%3A%22widget%22%2C%22utm_campaign%22%3A%22ticker-tape%22%7D" style="box-sizing: border-box; height: 44px; width: 100%;"></iframe>
+                    <style>
+                    	.tradingview-widget-copyright {
+                    		font-size: 13px !important;
+                    		line-height: 32px !important;
+                    		text-align: center !important;
+                    		vertical-align: middle !important;
+                    		font-family: 'Trebuchet MS', Arial, sans-serif !important;
+                    		color: #9db2bd !important;
+                    	}
+                    
+                    	.tradingview-widget-copyright .blue-text {
+                    		color: #2196f3 !important;
+                    	}
+                    
+                    	.tradingview-widget-copyright a {
+                    		text-decoration: none !important;
+                    		color: #9db2bd !important;
+                    	}
+                    
+                    	.tradingview-widget-copyright a:visited {
+                    		color: #9db2bd !important;
+                    	}
+                    
+                    	.tradingview-widget-copyright a:hover .blue-text {
+                    		color: #38acdb !important;
+                    	}
+                    
+                    	.tradingview-widget-copyright a:active .blue-text {
+                    		color: #299dcd !important;
+                    	}
+                    
+                    	.tradingview-widget-copyright a:visited .blue-text {
+                    		color: #2196f3 !important;
+                    	}
+                    	</style>
+                    </div><br>
+                    <!-- TradingView Widget BEGIN -->
+                    <div class="trading-iframe" id="trading" style="min-height:400px !important; height:400px">
+                         <!-- TradingView Widget BEGIN -->
+                       <!-- TradingView Widget BEGIN -->
+<div class="tradingview-widget-container">
+  <div id="tradingview_05ab9"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NASDAQ-AAPL/" rel="noopener" target="_blank"><span class="blue-text">AAPL Chart</span></a> by TradingView</div>
+  <script type="text/javascript" src="../s3.tradingview.com/tv.js"></script>
+  <script type="text/javascript">
+  new TradingView.widget(
+  {
+  "width": 980,
+  "height": 610,
+  "symbol": "NASDAQ:AAPL",
+  "interval": "D",
+  "timezone": "Etc/UTC",
+  "theme": "light",
+  "style": "1",
+  "locale": "en",
+  "toolbar_bg": "#f1f3f6",
+  "enable_publishing": false,
+  "allow_symbol_change": true,
+  "container_id": "tradingview_05ab9"
+}
+  );
+  </script>
+</div>
+<!-- TradingView Widget END -->		<!-- TradingView Widget END -->
+                                       
+                                    </div>
+                    <!-- TradingView Widget END -->
+                </div>
+                
+              </div>
+
+
+
+        </div>
+    </div>
+</section>
+<!--service section end-->
+
+        </div>
+    </section>
+</div>
+
+<!-- Online Section End -->
+
+<div class="clearfix"></div>
+
+<!--footer area start-->
+<footer id="contact" class="footer-area">
+    <!--footer area start-->
+    <div class="footer-bottom">
+        <div class="footer-support-bar">
+            <!-- Footer Support List Start -->
+            <div class="footer-support-list">
+                <ul>
+                    <li class="wow bounceInDown" data-wow-duration="1s" data-wow-delay="1s">
+                        <div class="footer-thumb"><i class="fa fa-headphones"></i></div>
+                        <div class="footer-content">
+                            <p>24/7 Customer Support</p>
+                        </div>
+                    </li>
+                    <li class="wow bounceInDown" data-wow-duration="1s" data-wow-delay="2s">
+                        <div class="footer-thumb"><i class="fa fa-envelope"></i></div>
+                        <div class="footer-content">
+                            <p><a href="contact.html">info@aspen-fm.com</a></p>
+                        </div>
+                    </li>
+                    <li class="wow bounceInDown" data-wow-duration="1s" data-wow-delay="3s">
+                        <div class="footer-thumb"><i class="fa fa-comments-o"></i></div>
+                        <div class="footer-content">
+                            <p>Friendly Support Ticket</p>
+                        </div>
+                    </li>
+                    <li class="wow bounceInDown" data-wow-duration="1s" data-wow-delay="4s">
+                        <div class="footer-thumb"><i class="fa fa-phone"></i></div>
+                        <div class="footer-content">
+                            <p>+1 (305) 918‑1211</p>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+            <!-- Footer Support End -->
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4 col-sm-12 wow fadeInLeft" data-wow-duration="3s">
+                    <p class="copyright-text">
+                       
+                    </p>
+                </div>
+                <div class="col-md-4 col-sm-9 wow bounceInDown" data-wow-duration="3s">
+                    <p class="copyright-text">
+                        Copyright © Aspen Financial Management 2021
+                    </p>
+                </div>
+                <div class="col-md-4 col-sm-3 wow fadeInRight" data-wow-duration="3s">
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="back-to-top" class="scroll-top back-to-top" data-original-title="" title="" >
+        <i class="fa fa-angle-up"></i>
+    </div>
+</footer>
+<style type="text/css">
+    li.export-main {
+        visibility: hidden;
+    }
+</style>
+<!--Google Map APi Key-->
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAHzPSV2jshbjI8fqnC_C4L08ffnj5EN3A"></script>
+<!--jquery script load-->
+<script src="assets/front/js/jquery.js"></script> 
+
+<script src="assets/front/js/bootstrap.min.js"></script>
+
+
+<!-- Highlight script load-->
+<script src="assets/front/js/highlight.min.js"></script>
+<!--Jquery Ui Slider script load-->
+<script src="assets/front/js/jquery-ui-slider.min.js"></script>
+<!--Circleful Js File Load-->
+<script src="assets/front/js/jquery.circliful.js"></script>
+<!--CounterUp script load-->
+<script src="assets/front/js/jquery.counterup.min.js"></script>
+<!-- Ripples  script load-->
+<script src="assets/front/js/jquery.ripples-min.js"></script>
+<!--Slick Nav Js File Load-->
+<script src="assets/front/js/jquery.slicknav.min.js"></script>
+<!--Lightcase Js File Load-->
+<script src="assets/front/js/lightcase.js"></script>
+<!--particle Js File Load-->
+<script src="assets/front/js/particles.min.js"></script>
+<!--particle custom Js File Load-->
+<script src="assets/front/js/particles-custom.js"></script>
+<!--RainDrops script load-->
+<script src="assets/front/js/raindrops.js"></script>
+<!--Easing script load-->
+<script src="assets/front/js/easing-min.js"></script>
+<!--Slick Slider Js File Load-->
+<script src="assets/front/js/slick.min.js"></script>
+<!--Swiper script load-->
+<script src="assets/front/js/swiper.min.js"></script>
+<!--WOW script load-->
+<script src="assets/front/js/wow.min.js"></script>
+<!--WayPoints script load-->
+<script src="assets/front/js/waypoints.min.js"></script>
+
+<!-- Gmap Load Here -->
+<script src="assets/front/js/gmaps.js"></script>
+<script src="https://maps.google.com/maps/api/js?key=AIzaSyCo_pcAdFNbTDCAvMwAD19oRTuEmb9M50c"></script>
+<!-- Map Js File Load -->
+<script src="assets/front/js/map-script4831.php?color=03423a"></script>
+    <!--Main js file load-->
+<script src="assets/front/js/main.js"></script>
+
+<!--swal alert message-->
+
+<!--end swal alert message-->
+<script>
+var mobile = (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent));
+
+hljs.initHighlightingOnLoad();
+hljs.configure({useBR: true});
+jQuery('#raindrops').raindrops({color:'#fff',canvasHeight:5});
+jQuery('#raindrops-green').raindrops({color:'#03423a ',canvasHeight:5});
+
+</script>
+</body>
+
+<!-- Mirrored from aspen-fm.com/stocks by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 07 Nov 2021 12:36:53 GMT -->
+</html>
